@@ -1,10 +1,13 @@
-* {
+body {
+    /* hash number means collor (hexadecimal number) */
+    color: #39a6b2;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
-    background-color:rgb(99, 252, 201);
-    color: #fef140;
+    /* apply styles to header */
+    background-color:#39a6b2;
+    padding: 20px 35px;
 }
 
 section {
