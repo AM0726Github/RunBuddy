@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -49,6 +50,24 @@ section {
 }
 
 footer {
-    background-color: #fef140;
-    color: rgb(7, 44, 124);
+    background:#fce138;
+    width: 100%;
+    padding: 40px 35px;
+}
+
+footer h2 {
+    display: inline;
+    color: #024e76;
+    font-size: 30px;
+    margin: 0;
+}
+
+footer div {
+    float: right;
+    line-height: 1.5;
+    text-align: right;
+} 
+
+footer a {
+    color: #024e76;
 }
