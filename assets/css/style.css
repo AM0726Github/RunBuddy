@@ -160,6 +160,10 @@ section {
     font-size: 23px;
 }
 
+.trainers {
+    text-align: center;
+}
+
 footer {
     background:#fce138;
     width: 100%;
