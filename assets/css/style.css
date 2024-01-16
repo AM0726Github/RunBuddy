@@ -164,6 +164,26 @@ section {
     text-align: center;
 }
 
+.trainer {
+    width: 900px;
+    margin: 0 auto 30px auto;
+    background: #024e76;
+    color: #fce138;
+    /* This is known as providing block formatting context to the element. */
+    overflow: auto;
+}
+
+.trainer img {
+    width: 35%;
+    float: left;
+}
+
+.trainer-bio {
+    padding: 35px;
+    float: left;
+    width: 65%;
+}
+
 footer {
     background:#fce138;
     width: 100%;
