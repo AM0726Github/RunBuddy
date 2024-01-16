@@ -173,6 +173,8 @@ section {
     overflow: auto;
 }
 
+/* When a parent HTML element's style is applied to any child element, it is called inheritance. */
+
 .trainer img {
     width: 35%;
     float: left;
